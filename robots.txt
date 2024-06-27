@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mentricia.github.io/sitemap
+Sitemap: https://mentricia.github.io/app/sitemap
+Sitemap: https://mentricia.github.io/assets/sitemap
+Sitemap: https://mentricia.github.io/css/sitemap
+Sitemap: https://mentricia.github.io/includes/sitemap
+Sitemap: https://mentricia.github.io/item/sitemap
+Sitemap: https://mentricia.github.io/src/sitemap
